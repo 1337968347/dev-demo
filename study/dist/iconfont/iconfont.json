@@ -1,0 +1,65 @@
+{
+  "id": "4983538",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372772",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "36300617",
+      "name": "多平面重建",
+      "font_class": "duopingmianzhongjian",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    },
+    {
+      "icon_id": "44468181",
+      "name": "体渲染",
+      "font_class": "tixuanran",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "2683503",
+      "name": "图层",
+      "font_class": "tuceng",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "13638677",
+      "name": "移动",
+      "font_class": "yidong",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "23376824",
+      "name": "缩放",
+      "font_class": "suofang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "37636930",
+      "name": "亮度和对比度",
+      "font_class": "liangduheduibidu",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "42194572",
+      "name": "layout-4-line",
+      "font_class": "layout-4-line",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    }
+  ]
+}
